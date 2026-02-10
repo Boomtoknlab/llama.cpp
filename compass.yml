@@ -1,0 +1,16 @@
+name: llama.cpp
+id: ari:cloud:compass:2eefe999-d61b-469c-92ef-31fc5e9b3f13:component/ace244a1-3ae8-43fb-8c96-347d12170341/4d8ff9a6-1810-46e9-b708-dacb8112d4b8
+description: LLM inference in C/C++
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Boomtoknlab/llama.cpp
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
